@@ -4,11 +4,8 @@ UTN - Facultad Regional Buenos Aires - Materia Paradigmas de Programación
 
 ## Equipo de desarrollo: 
 
-- Brian Cesar Sisco Salazar
-- Ignacio Emanuel Rodriguez Martín
-- Matías Goldberg 
-- Matías Gabriel Hoz
-- Valentín Fernández Pizzella
+[Matías Gabriel Hoz](https://github.com/matiasHoz)
+[Valentín Fernández Pizzella](https://github.com/ValFernandez2)
  
 
 ## Capturas 

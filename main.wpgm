@@ -1,0 +1,16 @@
+import wollok.game.*
+import configuraciones.*
+import personajes.*
+import enemigos.*
+import equipamientos.*
+import direcciones.*
+import pisos.*
+
+program DungeonGame {
+	game.addVisual(fondoInicial)
+	configuracionesIniciales.pantalla()
+	configuracionesIniciales.teclas()	
+	configuracionesIniciales.colisiones()
+	game.start()
+}
+

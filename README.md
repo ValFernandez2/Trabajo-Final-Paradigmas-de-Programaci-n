@@ -4,8 +4,8 @@ UTN - Facultad Regional Buenos Aires - Materia Paradigmas de Programación
 
 ## Equipo de desarrollo: 
 
-[Matías Gabriel Hoz](https://github.com/matiasHoz)
-[Valentín Fernández Pizzella](https://github.com/ValFernandez2)
+- [Matías Gabriel Hoz](https://github.com/matiasHoz)
+- [Valentín Fernández Pizzella](https://github.com/ValFernandez2)
  
 
 ## Capturas 
